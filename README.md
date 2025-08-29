@@ -24,11 +24,11 @@ Instead of manually copying data between tools, this automation:
 
 ## Demo
 ![Zapier Workflow](screenshots/workflow.JPG)
-![Zapier Workflow](screenshots/workflow2.JPG)
-![Zapier Workflow](screenshots/workflow3.JPG)
-![Zapier Workflow](screenshots/workflow4.JPG)
-![Zapier Workflow](screenshots/workflow5.JPG)
-![Zapier Workflow](screenshots/workflow6.JPG)
+![Zapier Workflow](screenshots/workflow 2.JPG)
+![Zapier Workflow](screenshots/workflow 3.JPG)
+![Zapier Workflow](screenshots/workflow 4.JPG)
+![Zapier Workflow](screenshots/workflow 5.JPG)
+![Zapier Workflow](screenshots/workflow 6.JPG)
 
 ## How to Use
 1. Import `zapier-export.json` into Zapier to recreate the workflow.
