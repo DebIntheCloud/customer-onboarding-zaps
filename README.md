@@ -23,7 +23,12 @@ Instead of manually copying data between tools, this automation:
 - `docs/` (optional) → Extra notes, extensions
 
 ## Demo
-![Workflow Screenshot](screenshots/zapier-flow.png)
+![Zapier Workflow](screenshots/workflow.JPG)
+![Zapier Workflow](screenshots/workflow2.JPG)
+![Zapier Workflow](screenshots/workflow3.JPG)
+![Zapier Workflow](screenshots/workflow4.JPG)
+![Zapier Workflow](screenshots/workflow5.JPG)
+![Zapier Workflow](screenshots/workflow6.JPG)
 
 ## How to Use
 1. Import `zapier-export.json` into Zapier to recreate the workflow.
